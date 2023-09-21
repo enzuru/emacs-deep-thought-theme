@@ -6,4 +6,4 @@ An Emacs 24 theme with the Answer to The Ultimate Question of Life, the Universe
 
 # Screenshot
 
-![](https://raw.github.com/jasonm23/emacs-deep-thought-theme/master/deep-thought-theme.png)
+![](https://raw.github.com/enzuru/emacs-deep-thought-theme/master/deep-thought-theme.png)
