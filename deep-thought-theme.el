@@ -51,12 +51,6 @@
     (((class color) (min-colors 8))        (:foreground "#fff" :background "#000")))
    )
 
- '(fixed-pitch
-   ((t (:family "Monospace"))))
-
- '(variable-pitch
-   ((t (:family "Sans Serif"))))
-
  '(escape-glyph
    ((t (:foreground "#FFF" :background "#111d3c"))))
 
